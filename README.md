@@ -1,6 +1,6 @@
 Problem Statement
 
-As a beginner in data analytics, the objective of this assignment is to analyze the UK road accident dataset and gain insights into factors affecting road safety and accident severity. By examining the dataset, we aim to explore various aspects of road accidents and address the following questions. By addressing these questions and conducting exploratory analysis on the UK road accident dataset, we aim to gain insights into road safety and accident prevention.
+ the objective of this assignment is to analyze the UK road accident dataset and gain insights into factors affecting road safety and accident severity. By examining the dataset, we aim to explore various aspects of road accidents and address the following questions. By addressing these questions and conducting exploratory analysis on the UK road accident dataset, we aim to gain insights into road safety and accident prevention.
 
 Use Advanced Power BI Visualisations and Filters.
 
